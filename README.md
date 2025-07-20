@@ -32,12 +32,12 @@
 ### 📊 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bisma-404&show_icons=true&theme=github_dark&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bisma-404&layout=compact&theme=github_dark&hide_border=true" height="150">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" height="150">
+  <img src="https://streak-stats.demolab.com?user=Bisma-404&theme=github-dark-blue&hide_border=true" height="150">
 </p>
 
 ---
@@ -45,13 +45,13 @@
 ### 🤝 Connect With Me  
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="(https://www.linkedin.com/in/bismashahid/)L">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="(https://leetcode.com/u/BismaShahid/)">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Bisma-404">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
