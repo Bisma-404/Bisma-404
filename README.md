@@ -45,10 +45,10 @@
 ### 🤝 Connect With Me  
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/bismashahid/)L">
+  <a href="https://www.linkedin.com/in/bismashahid/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="(https://leetcode.com/u/BismaShahid/)">
+  <a href="https://leetcode.com/u/BismaShahid/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
   <a href="https://github.com/Bisma-404">
